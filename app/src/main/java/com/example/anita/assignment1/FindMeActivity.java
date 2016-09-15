@@ -32,6 +32,15 @@ public class FindMeActivity extends AppCompatActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_location);
 
+        try
+        {
+            getActionBar().setDisplayHomeAsUpEnabled(true);
+        }
+        catch(java.lang.NullPointerException excep)
+        {
+            Log.d(TAG, "No action Bar");
+        }
+
         if (mGoogleApiClient == null) {
             mGoogleApiClient = new GoogleApiClient.Builder(this)
                     .addConnectionCallbacks(this)
