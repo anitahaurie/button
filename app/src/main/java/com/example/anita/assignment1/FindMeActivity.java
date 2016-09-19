@@ -90,6 +90,11 @@ public class FindMeActivity extends AppCompatActivity
             mLongitude = (TextView)findViewById(R.id.lonView);
             mLongitude.setText("Longitude: " + String.valueOf(mLastLocation.getLongitude()));
         }
+        else
+        {
+            mLatitude = (TextView)findViewById(R.id.latView);
+            mLatitude.setText("Location Disabled");
+        }
 
     }
 

@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
             ViewGroup layout = (ViewGroup) findViewById(R.id.activity_main);
             Snackbar mySnackbar = Snackbar.make(layout, "Location Found!", Snackbar.LENGTH_SHORT);
             mySnackbar.show();
+            StaticData.getInstance().setShowSnackbar(false);
         }
     }
 }
