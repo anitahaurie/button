@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="menu_edit">Edit</string>
+    <string name="default_empty"></string>
+    <string name="saved_name"></string>
+    <integer name="saved_age">0</integer>
+    <integer name="saved_height">0</integer>
+    <integer name="saved_weight">0</integer>
+    <bool name="saved_gender">false</bool>
+
+</resources>
