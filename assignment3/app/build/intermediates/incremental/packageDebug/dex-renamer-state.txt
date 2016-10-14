@@ -1,0 +1,7 @@
+#Fri Oct 14 16:08:33 EDT 2016
+base.0=C\:\\Users\\anita\\Documents\\Tortoise\\button\\ass3\\assignment3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f620b90e41bdab9db402de96bf9aa201af9bf45c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\anita\\Documents\\Tortoise\\button\\ass3\\assignment3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a967e62ee02820c9f1a3455d0c6ae28774322853\\classes.dex
+base.1=C\:\\Users\\anita\\Documents\\Tortoise\\button\\ass3\\assignment3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a967e62ee02820c9f1a3455d0c6ae28774322853
+file.0=C\:\\Users\\anita\\Documents\\Tortoise\\button\\ass3\\assignment3\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f620b90e41bdab9db402de96bf9aa201af9bf45c\\classes.dex

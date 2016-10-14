@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/Dropbox/concordia_university/7_fall_2016/elec390/tech_assignments/button/assignment3/app/app.iml" filepath="$USER_HOME$/Dropbox/concordia_university/7_fall_2016/elec390/tech_assignments/button/assignment3/app/app.iml" />
-      <module fileurl="file://$USER_HOME$/Dropbox/concordia_university/7_fall_2016/elec390/tech_assignments/button/assignment3/assignment3.iml" filepath="$USER_HOME$/Dropbox/concordia_university/7_fall_2016/elec390/tech_assignments/button/assignment3/assignment3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignment3.iml" filepath="$PROJECT_DIR$/assignment3.iml" />
     </modules>
   </component>
 </project>
